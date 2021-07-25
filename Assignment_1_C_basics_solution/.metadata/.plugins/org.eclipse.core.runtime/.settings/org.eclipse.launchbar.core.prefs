@@ -1,0 +1,7 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:Ex1_Print_a_sentence.exe,org.eclipse.launchbar.core.descriptorType.default\:Ex2_Print_a_integer_entered_by_user.exe,org.eclipse.launchbar.core.descriptorType.default\:Ex3_Add_two_integers.exe,org.eclipse.launchbar.core.descriptorType.default\:Ex4_Multiply_two_float.exe,org.eclipse.launchbar.core.descriptorType.default\:Ex5_Find_ASCII_Value.exe,org.eclipse.launchbar.core.descriptorType.default\:Ex6_Swap_two_numbers.exe,org.eclipse.launchbar.core.descriptorType.default\:Ex7_Swap_without_temp.exe
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:Ex1_Print_a_sentence.exe/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Ex1_Print_a_sentence.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

@@ -1,0 +1,7 @@
+14:54:10 **** Incremental Build of configuration Debug for project Ex2_Print_a_integer_entered_by_user ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ex2_Print_a_integer_entered_by_user.o" "..\\src\\Ex2_Print_a_integer_entered_by_user.c" 
+gcc -o Ex2_Print_a_integer_entered_by_user.exe "src\\Ex2_Print_a_integer_entered_by_user.o" 
+
+14:54:11 Build Finished. 0 errors, 0 warnings. (took 771ms)
+
